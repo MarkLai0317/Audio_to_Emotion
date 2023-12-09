@@ -1,0 +1,28 @@
+{
+  "emotion_prediction": [
+    {
+      "chunk0.mp3": {
+        "label": "neutral",
+        "score": 0.9167559742927551
+      }
+    },
+    {
+      "chunk1.mp3": {
+        "label": "neutral",
+        "score": 0.8910508155822754
+      }
+    },
+    {
+      "chunk2.mp3": {
+        "label": "neutral",
+        "score": 0.9594871401786804
+      }
+    },
+    {
+      "chunk3.mp3": {
+        "label": "neutral",
+        "score": 0.9550705552101135
+      }
+    }
+  ]
+}
