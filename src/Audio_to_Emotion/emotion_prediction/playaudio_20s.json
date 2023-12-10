@@ -1,28 +1,24 @@
 {
   "emotion_prediction": [
     {
-      "chunk0.mp3": {
-        "label": "neutral",
-        "score": 0.9167559742927551
-      }
+      "score": 0.9167559742927551,
+      "file_name": "chunk0.mp3",
+      "expression": "neutral"
     },
     {
-      "chunk1.mp3": {
-        "label": "neutral",
-        "score": 0.8910508155822754
-      }
+      "score": 0.8910508155822754,
+      "file_name": "chunk1.mp3",
+      "expression": "neutral"
     },
     {
-      "chunk2.mp3": {
-        "label": "neutral",
-        "score": 0.9594871401786804
-      }
+      "score": 0.9594871401786804,
+      "file_name": "chunk2.mp3",
+      "expression": "neutral"
     },
     {
-      "chunk3.mp3": {
-        "label": "neutral",
-        "score": 0.9550705552101135
-      }
+      "score": 0.9550705552101135,
+      "file_name": "chunk3.mp3",
+      "expression": "neutral"
     }
   ]
 }
