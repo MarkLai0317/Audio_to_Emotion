@@ -1,0 +1,39 @@
+{
+  "emotion_prediction": [
+    {
+      "score": 0.9874225854873657,
+      "file_name": "chunk0.mp3",
+      "expression": "joy"
+    },
+    {
+      "score": 0.9855440258979797,
+      "file_name": "chunk1.mp3",
+      "expression": "joy"
+    },
+    {
+      "score": 0.7251378893852234,
+      "file_name": "chunk2.mp3",
+      "expression": "neutral"
+    },
+    {
+      "score": 0.9578903913497925,
+      "file_name": "chunk3.mp3",
+      "expression": "anger"
+    },
+    {
+      "score": 0.6807993054389954,
+      "file_name": "chunk4.mp3",
+      "expression": "anger"
+    },
+    {
+      "score": 0.9698053598403931,
+      "file_name": "chunk5.mp3",
+      "expression": "sadness"
+    },
+    {
+      "score": 0.9450792074203491,
+      "file_name": "chunk6.mp3",
+      "expression": "sadness"
+    }
+  ]
+}
